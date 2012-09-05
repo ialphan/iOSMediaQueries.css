@@ -1,11 +1,11 @@
 #iOSMediaQueries
-CSS Media Queries for iOS devices. **Note:** The source file has different background for each device and orientation.
+CSS Media Queries for iOS devices.
 
-Demo: [demo.html](https://github.com/ialphan/iOSMediaQueries/blob/master/demo/demo.html) in [demo](https://github.com/ialphan/iOSMediaQueries/tree/master/demo) directory), demonstrates the basic usage of remixin with box-shadow.
+Demo: [demo.html](https://github.com/ialphan/iOSMediaQueries/blob/master/demo/demo.html) in [demo](https://github.com/ialphan/iOSMediaQueries/tree/master/demo) directory), demonstrates different backgrounds for each device and orientation.
 
 <br />
 ##Supported iOS Devices
-	iPad 1-2-3
+	iPad 1-2-3 
 	iPhone 1-2-3-3S-4-4S
 	iPod touch 1-2-3-4
 

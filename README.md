@@ -5,9 +5,11 @@ Demo: [demo.html](https://github.com/ialphan/iOSMediaQueries/blob/master/demo/de
 
 <br />
 ##Supported iOS Devices
-	iPad 1-2-3 
+	iPad 1-2-3
 	iPhone 1-2-3-3S-4-4S
 	iPod touch 1-2-3-4
+	
+**Note:** Numbers are device generations.
 
 <br />
 ##Usage

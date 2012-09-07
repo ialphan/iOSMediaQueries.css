@@ -34,6 +34,10 @@ Type the desired device name then press tab, it will generate the desired media 
 	}
 
 <br />
+##License
+See the LICENSE file.
+
+<br />
 ##History
 
 **v0.1 - 2012-09-05**

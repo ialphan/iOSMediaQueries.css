@@ -5,14 +5,12 @@
   }
 }
 
-
 /* iPhone 1-2-3-3S & iPod Touch 1-2-3  | Landscape */
 @media all and (max-device-width: 320px) and (max-device-height: 480px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 1) {
   html{
     background: #0f0; /* lime */
   }
 }
-
 
 /* iPhone 4-4S & iPod Touch 4  | Portrait */
 @media all and (max-device-width: 640px) and (max-device-height: 960px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
@@ -28,6 +26,19 @@
   }
 }
 
+/* iPhone 5 & iPod Touch 5  | Portrait */
+@media all and (max-device-width: 640px) and (max-device-height: 1136px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
+  html{
+    background: #F4A460; /* sandybrown */
+  }
+}
+
+/* iPhone 5 & iPod Touch 5 | Landscape */
+@media all and (max-device-width: 640px) and (max-device-height: 1136px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 2) {
+  html{
+    background: #00F5FF; /* turquoise */
+  }
+}
 
 /* iPad 1-2 | Portrait */
 @media all and (max-device-width: 768px) and (max-device-height: 1024px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 1) {

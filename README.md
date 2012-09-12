@@ -5,9 +5,9 @@ Demo: [demo.html](https://github.com/ialphan/iOSMediaQueries/blob/master/demo/de
 
 <br />
 ##Supported iOS Devices
-	iPad 1-2-3
-	iPhone 1-2-3-3S-4-4S
-	iPod touch 1-2-3-4
+	iPad 1, 2, 3
+	iPhone 1, 2, 3/3S, 4/4S, 5
+	iPod touch 1, 2, 3, 4, 5
 	
 **Note:** Numbers are device generations.
 
@@ -21,16 +21,16 @@ Type the desired device name then press tab, it will generate the desired media 
 
 ** Device names:**
 
-	iPad 1-2-3 (ipadp, ipadl, ipad3p, ipad3l)
-	iPhone 1-2-3-3S-4-4S (iphonep, iphonel, iphone4p, iphone4l)
-	iPod touch 1-2-3-4 (ipodp, ipodl, ipod4p, ipod4l)
+	iPad 1, 2, 3 (ipadp, ipadl, ipad3p, ipad3l)
+	iPhone 1, 2, 3/3S, 4/4S, 5 (iphonep, iphonel, iphone4p, iphone4l, iphone5p, iphone5l)
+	iPod touch 1, 2, 3, 4, 5 (ipodp, ipodl, ipod4p, ipod4l, ipod5p, ipod5l)
 
 <br />
 	
-	Ex. iphone4p →
+	Ex. iphone5p →
 	
-	@media all and (max-device-width: 640px) and (max-device-height: 960px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
-		/* iPhone4 Portrait specific CSS */
+	@media all and (max-device-width: 640px) and (max-device-height: 1136px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
+		/* iPhone5 Portrait specific CSS */
 	}
 
 <br />
@@ -44,10 +44,16 @@ CSS.
 <br/>
 ##History
 
+**v0.1.1 - 2012-09-12**
+
+  * Added iPhone 5 and iPod 5 media queries (portrait and landscape).
+
+***
+
 **v0.1 - 2012-09-05**
 
 
-* Added these properties:
-  * iPad 1-2-3
-  * iPhone 1-2-3-3S-4-4S
-  * iPod touch 1-2-3-4
+* Added media queries (portrait and landscape)for:
+  * iPad 1, 2, 3
+  * iPhone 1, 2, 3/3S, 4/4S
+  * iPod touch 1, 2, 3, 4

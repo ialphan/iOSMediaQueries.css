@@ -1,7 +1,7 @@
 #iOSMediaQueries
 CSS Media Queries for iOS devices.
 
-Demo: [demo.html](https://github.com/ialphan/iOSMediaQueries/blob/master/demo/demo.html) in [demo](https://github.com/ialphan/iOSMediaQueries/tree/master/demo) directory), demonstrates different backgrounds for each device and orientation.
+Demo: [demo.html](https://github.com/ialphan/iOSMediaQueries.css/blob/master/demo/demo.html) in [demo](https://github.com/ialphan/iOSMediaQueries.css/tree/master/demo) directory), demonstrates different backgrounds for each device and orientation.
 
 <br />
 ##Supported iOS Devices

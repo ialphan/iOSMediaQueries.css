@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@media all and (max-device-width: 320px) and (max-device-height: 480px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 1) {
+	$0
+}</string>
+	<key>name</key>
+	<string>iphonel</string>
+	<key>scope</key>
+	<string>source.css, text.html</string>
+	<key>tabTrigger</key>
+	<string>iphonel</string>
+	<key>uuid</key>
+	<string>5E38E21E-238C-4C80-A45F-37639C1829E6</string>
+</dict>
+</plist>

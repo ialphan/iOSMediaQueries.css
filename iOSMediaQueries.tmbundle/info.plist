@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>iOSMediaQueries</string>
+	<key>ordering</key>
+	<array>
+		<string>EB1B1333-ACC3-429A-AF76-0F9BD8F3D781</string>
+		<string>B79D5BED-DA08-41D1-8676-9256D902894B</string>
+		<string>4864F82C-4F02-4671-ABFB-BA1F2020AD02</string>
+		<string>DC538DCB-20FA-449C-B550-AA3597C1058D</string>
+		<string>63AA51DA-B1A9-4685-9A3B-2EBAFB78495F</string>
+		<string>5E38E21E-238C-4C80-A45F-37639C1829E6</string>
+		<string>554EA23C-CF67-4E0D-A59E-8E0F8CE6555A</string>
+		<string>DE386DF1-0FBA-4D16-B4EA-23C7B3BE0D7A</string>
+		<string>16F2B680-4A2B-4105-82FE-ACAD8E36164F</string>
+		<string>6C66C2BA-030F-4093-9EFE-54D1047D3324</string>
+		<string>6ED028B1-D621-48A5-BBE8-40DBDD18F4F0</string>
+		<string>022A0288-29C9-44C4-B72A-E82D3223118F</string>
+		<string>8CE6A7FD-3F22-4B18-82FE-4460EADDC568</string>
+		<string>436C5663-256F-4465-B52F-9ED2FA49422F</string>
+		<string>826C0E05-4157-423C-A11C-1F97877A1003</string>
+		<string>61B8413A-444C-4243-807B-B58EE1293914</string>
+	</array>
+	<key>uuid</key>
+	<string>B186A165-0983-444F-BB47-8CD11334BFB9</string>
+</dict>
+</plist>

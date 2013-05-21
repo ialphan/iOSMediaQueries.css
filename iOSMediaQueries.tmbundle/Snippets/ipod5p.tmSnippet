@@ -3,10 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@media all and (max-device-width: 640px) and (max-device-height: 1136px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
-  html{
-    background: #F4A460; /* sandybrown */
-  }
+	<string>@media all and (max-device-width: 640px) and (max-device-height: 1136px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2){
+	$0
 }</string>
 	<key>name</key>
 	<string>ipod5p</string>

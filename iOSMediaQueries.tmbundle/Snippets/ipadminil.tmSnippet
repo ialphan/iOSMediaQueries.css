@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@media all and (max-device-width: 640px) and (max-device-height: 1136px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 2){
+	<string>@media all and (max-device-width: 768px) and (max-device-height: 1024px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 1){
 	$0
 }</string>
 	<key>name</key>
-	<string>ipod5l</string>
+	<string>ipadminil</string>
 	<key>scope</key>
 	<string>source.css, text.html</string>
 	<key>tabTrigger</key>
-	<string>ipod5l</string>
+	<string>ipadminil</string>
 	<key>uuid</key>
-	<string>61B8413A-444C-4243-807B-B58EE1293914</string>
+	<string>8C9E632A-BCE3-4D6D-8622-C0A40115DAF8</string>
 </dict>
 </plist>

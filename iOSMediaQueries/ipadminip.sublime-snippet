@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+@media all and (max-device-width: 768px) and (max-device-height: 1024px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 1) {
+	$0
+}
+]]></content>
+	<tabTrigger>ipadminip</tabTrigger>
+	<scope>source.css, text.html, text</scope>
+</snippet>

@@ -1,7 +1,7 @@
 #iOSMediaQueries
 CSS Media Queries for iOS devices.
 
-Demo: [demo.html](https://github.com/ialphan/iOSMediaQueries.css/blob/master/demo/demo.html) in [demo](https://github.com/ialphan/iOSMediaQueries.css/tree/master/demo) directory), demonstrates different backgrounds for each device and orientation. Make sure you try this in an iOS simulator or an actual device.
+Demo: [demo.html](https://github.com/ialphan/iOSMediaQueries.css/blob/master/demo/demo.html) in [demo](https://github.com/ialphan/iOSMediaQueries.css/tree/master/demo) directory, demonstrates different backgrounds for each device and orientation. Make sure you try this in an iOS simulator or an actual device.
 
 <br />
 ##Supported iOS Devices
@@ -17,8 +17,8 @@ Each media query has a comment above stating which device that media query is ta
 
 <br />
 ##TextMate and Sublime Text Bundle (snippet) (suggested)
-Installation: Double click on iOSMediaQueries.tmbundle to install it for TextMate and move iOSMediaQueries directory to your Sublime Text 2's Packages directory.
-Usage: Type the desired device name then press tab, it will generate the desired media query and place the cursor inside the block. **Note:** CSS(or mCSS) or HTML(or mHTML) file extensions must be selected in TextMate.
+**Installation:** Double click on iOSMediaQueries.tmbundle to install it for TextMate and move iOSMediaQueries directory to your Sublime Text 2's Packages directory.
+**Usage:** Type the desired device name then press tab, it will generate the desired media query and place the cursor inside the block. **Note:** CSS(or mCSS) or HTML(or mHTML) file extensions must be selected in TextMate.
 
 ** Device names:**
 

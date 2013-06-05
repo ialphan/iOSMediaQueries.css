@@ -3,7 +3,7 @@ CSS Media Queries for iOS devices.
 
 Demo: [demo.html](https://github.com/ialphan/iOSMediaQueries.css/blob/master/demo/demo.html) in [demo](https://github.com/ialphan/iOSMediaQueries.css/tree/master/demo) directory, demonstrates different backgrounds for each device and orientation. Make sure you try this in an iOS simulator or an actual device.
 
-<br />
+<br>
 ##Supported iOS Devices
 	iPad 1, 2, 3
 	iPhone 1, 2, 3/3S, 4/4S, 5
@@ -11,11 +11,11 @@ Demo: [demo.html](https://github.com/ialphan/iOSMediaQueries.css/blob/master/dem
 
 **Note:** Numbers are device generations.
 
-<br />
+<br>
 ##Usage
 Each media query has a comment above stating which device that media query is targeting so, copy-paste.
 
-<br />
+<br>
 ##TextMate and Sublime Text Bundle (snippet) (suggested)
 **Installation:** Double click on iOSMediaQueries.tmbundle to install it for TextMate and move iOSMediaQueries directory to your Sublime Text 2's Packages directory.
 **Usage:** Type the desired device name then press tab, it will generate the desired media query and place the cursor inside the block. **Note:** CSS(or mCSS) or HTML(or mHTML) file extensions must be selected in TextMate.
@@ -27,7 +27,7 @@ Each media query has a comment above stating which device that media query is ta
 	iPhone 1, 2, 3/3S, 4/4S, 5 (iphonep, iphonel, iphone4p, iphone4l, iphone5p, iphone5l)
 	iPod touch 1, 2, 3, 4, 5 (ipodp, ipodl, ipod4p, ipod4l, ipod5p, ipod5l)
 
-<br />
+<br>
 
 	Ex. iphone5p →
 
@@ -35,15 +35,15 @@ Each media query has a comment above stating which device that media query is ta
 		/* iPhone5 Portrait specific CSS */
 	}
 
-<br />
+<br>
 ##License
 See the LICENSE file.
 
-<br />
+<br>
 ##Language
 CSS.
 
-<br/>
+<br>
 ##History
 
 **v0.1.2 - 2013-05-21**
